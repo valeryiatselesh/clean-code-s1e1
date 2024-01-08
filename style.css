@@ -39,11 +39,11 @@
 }
 #incomplete-tasks,
 #completed-tasks {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 .input,.task-btn{
-  outline:none;
+  outline: none;
 }
 .task-btn {
   background: none;
@@ -66,7 +66,7 @@
   padding: 30px 0 10px;
   margin: 0;
   text-transform: uppercase;
-  list-style:none;
+  list-style: none;
 }
 .new-task-element,
 .task-element {
@@ -104,7 +104,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  list-style:none;
+  list-style: none;
   vertical-align: middle;
 }
 
@@ -137,14 +137,14 @@
 
 /* Edit Task */
 .task-element{
-  display:none
+  display: none
 }
 
 .edit-mode .task-element {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .edit-mode .task-label {
-  display:none;
+  display: none;
 }
