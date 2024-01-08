@@ -42,7 +42,8 @@
   margin: 0;
   padding: 0px;
 }
-.input,.task-btn{
+.input,
+.task-btn{
   outline: none;
 }
 .task-btn {
