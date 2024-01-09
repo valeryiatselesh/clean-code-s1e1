@@ -42,7 +42,9 @@
   margin: 0;
   padding: 0px;
 }
-.input,
+.task__content_new,
+.task__check,
+.task__content,
 .task__btn{
   outline: none;
 }
